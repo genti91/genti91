@@ -13,6 +13,8 @@
 
 ###
 
+<h2 align="left">Hi 👋! My name is Franco and I'm a Full-Stack Developer, from Argentina</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
