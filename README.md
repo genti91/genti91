@@ -26,7 +26,7 @@
 ###
 
 <div align="left">
-  <a href="linkedin.com/in/franco-gentilini-8b178b195" target="_blank">
+  <a href="linkedin.com/in/franco-gentilini-8b178b195" >
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
    </a>
 </div>
