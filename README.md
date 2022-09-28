@@ -8,7 +8,7 @@
 </div>
 
 ###
-
+ <br/>
  <img align="right" height="150" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493b3xqwslgylqkx3e8ulcz3rhsvejts17xbf70fs29u&rid=200w.gif&ct=g"  />
 
 ###
@@ -39,8 +39,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
    </a>
 </div>
-<br/>
-<link>franco.15g@hotmail.com</link>
+<a>franco.15g@hotmail.com</a>
 
 ###
 
