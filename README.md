@@ -46,6 +46,6 @@ franco.15g@hotmail.com
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/genti91/genti91/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/genti91/genti91/output/snake.svg" alt="Snake animation" />
 
 ###
