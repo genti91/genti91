@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">📬 Main Technologies</h2>
+<h2 align="left">🚀 Main Technologies</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -32,7 +32,7 @@
 
 
 
-<h2 align="left">📮 How to reach me</h2>
+<h2 align="left">📬 How to reach me</h2>
 
 <div align="left">
   <a href="linkedin.com/in/franco-gentilini-8b178b195" >
